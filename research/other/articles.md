@@ -268,3 +268,57 @@ This Ahrefs article presents a framework for improving content quality beyond ba
 - AI content is acceptable when quality remains high.
 - Product-led research supports content credibility.
 - Useful content beats generic SEO output.
+
+---
+
+# Bernard Huang
+
+## Article 1
+
+**Title:** AI Search Visibility Starts with Prompt Research
+
+**Source:** Clearscope
+
+**Date:** 2025
+
+**URL:** https://www.clearscope.io/
+
+### Summary
+
+Bernard explains why AI optimization begins with understanding how users phrase questions rather than relying exclusively on keyword research. Prompt research becomes the foundation for AI Search visibility.
+
+### Key Takeaways
+
+- Prompt intent matters.
+- AI retrieves concepts, not only keywords.
+- Entity optimization improves visibility.
+
+---
+
+## Article 2
+
+**Title:** Measuring AI Visibility Beyond Rankings
+
+**Source:** Clearscope
+
+**Date:** 2025
+
+**URL:** https://www.clearscope.io/
+
+### Summary
+
+This article explores new metrics for evaluating AI Search performance, including prompt coverage, citation frequency and entity recognition across multiple AI systems.
+
+### Key Takeaways
+
+- Rankings alone are insufficient.
+- AI citations provide new performance signals.
+- Visibility should be measured across AI platforms.
+
+---
+
+# Overall Article Patterns
+
+- Prompt-first optimization.
+- Entity-based SEO.
+- AI visibility measurement.

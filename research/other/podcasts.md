@@ -223,3 +223,35 @@ Tim hosts long-form conversations with marketers, founders and operators about S
 - Expert-led content.
 - Multi-format repurposing.
 - Product-led marketing.
+
+---
+
+# Bernard Huang
+
+## Podcast 1
+
+**Title:** How AEO / GEO Actually Works
+
+**Host:** Clearscope Webinar
+
+**Date:** 2025
+
+**URL:** https://www.clearscope.io/webinars/how-aeo-geo-actually-works
+
+### Summary
+
+Bernard explains practical workflows for improving AI Search visibility through prompt research, citation analysis and entity optimization. The session emphasizes experimentation over assumptions.
+
+### Key Takeaways
+
+- Prompt research is becoming a core SEO activity.
+- AI citations reveal optimization opportunities.
+- Experimentation drives AI Search success.
+
+---
+
+# Overall Podcast Patterns
+
+- AI Search experimentation.
+- Prompt-first workflows.
+- Citation-based optimization.

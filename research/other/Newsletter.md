@@ -427,3 +427,11 @@ Ahrefs regularly publishes SEO, content marketing and AI Search research through
 
 - Turn internal product insights into public research.
 - Build a recurring SEO education newsletter.
+
+---
+
+# Bernard Huang
+
+No recurring personal newsletter was identified during this research.
+
+Most of Bernard Huang's educational content is published through Clearscope webinars, blog articles and LinkedIn rather than a standalone newsletter.
