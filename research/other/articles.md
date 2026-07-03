@@ -213,3 +213,58 @@ Aleyda compares traditional SEO with Generative Engine Optimization (GEO), expla
 - AI Search adaptation.
 - Technical SEO.
 - Sustainable optimization.
+
+---
+
+# Tim Soulo
+
+## Article 1
+
+**Title:** 74% of New Webpages Include AI Content
+
+**Source:** Ahrefs
+
+**Date:** 2025
+
+**URL:** https://ahrefs.com/blog/what-percentage-of-new-content-is-ai-generated/
+
+### Summary
+
+Ahrefs analyzed 900,000 newly created webpages and found widespread use of AI-generated content. The study shows that AI content is now normal, but quality and usefulness remain the real differentiators.
+
+### Key Takeaways
+
+- AI-generated content is already mainstream.
+- Google rankings are not automatically harmed by AI usage.
+- Content quality matters more than whether AI was involved.
+
+---
+
+## Article 2
+
+**Title:** How to Create Quality Content
+
+**Source:** Ahrefs
+
+**Date:** March 21, 2025
+
+**URL:** https://ahrefs.com/blog/quality-content/
+
+### Summary
+
+This Ahrefs article presents a framework for improving content quality beyond basic SEO checklists. It emphasizes depth, originality, usefulness and differentiation as key drivers of strong content.
+
+### Key Takeaways
+
+- Quality content requires more than keyword targeting.
+- Originality and usefulness improve performance.
+- Strong content should solve real user problems.
+
+---
+
+# Overall Article Patterns
+
+- Ahrefs prioritizes data-backed content.
+- AI content is acceptable when quality remains high.
+- Product-led research supports content credibility.
+- Useful content beats generic SEO output.

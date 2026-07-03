@@ -376,3 +376,54 @@ SEOFOMO is one of the most widely followed SEO newsletters, curating the latest 
 
 - Schedule a weekly SEO learning session.
 - Maintain an AI Search change log.
+
+---
+
+# Tim Soulo
+
+## Newsletter 1
+
+**Title:** Ahrefs Digest
+
+**Date:** Ongoing
+
+**Source:** Ahrefs
+
+**URL:** https://ahrefs.com/blog/
+
+### Summary
+
+Ahrefs regularly publishes SEO, content marketing and AI Search research through its blog and newsletter ecosystem. Tim's role as CMO connects this content to Ahrefs' broader product-led marketing strategy.
+
+### Key Takeaways
+
+- Product-led content builds authority.
+- Original research strengthens trust.
+- SEO education supports product adoption.
+
+---
+
+# Overall Newsletter Patterns
+
+- Data-driven SEO education.
+- Product-led marketing.
+- AI Search monitoring.
+
+---
+
+# Knowledge Extracted
+
+## Mental Models
+
+- Education can drive product growth.
+- Data-backed content builds trust.
+
+## Best Practices
+
+- Use product data to create useful content.
+- Publish educational content consistently.
+
+## Actionable Ideas
+
+- Turn internal product insights into public research.
+- Build a recurring SEO education newsletter.

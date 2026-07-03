@@ -191,3 +191,35 @@ Crawling Mondays features practical discussions about technical SEO, AI Search, 
 - Technical excellence.
 - AI Search evolution.
 - Continuous optimization.
+
+---
+
+# Tim Soulo
+
+## Podcast 1
+
+**Title:** Ahrefs Podcast
+
+**Host:** Tim Soulo
+
+**Date:** Ongoing
+
+**URL:** https://www.youtube.com/@ahrefspodcast
+
+### Summary
+
+Tim hosts long-form conversations with marketers, founders and operators about SEO, growth and content strategy. The podcast works as both thought leadership and a scalable source of reusable marketing content.
+
+### Key Takeaways
+
+- Expert-led conversations create high-trust content.
+- Podcasts can feed multiple content formats.
+- Long-form content supports both brand and SEO.
+
+---
+
+# Overall Podcast Patterns
+
+- Expert-led content.
+- Multi-format repurposing.
+- Product-led marketing.
