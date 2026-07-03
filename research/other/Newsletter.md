@@ -274,3 +274,54 @@ Amanda's weekly newsletter shares concise marketing ideas centered on Zero-Click
 
 - Create a recurring educational newsletter.
 - Repurpose newsletter insights into social content.
+
+---
+
+# Eli Schwartz
+
+## Newsletter 1
+
+**Title:** The Future of SEO & AEO
+
+**Date:** Ongoing
+
+**Source:** ProductLedSEO.com
+
+**URL:** https://www.productledseo.com/
+
+### Summary
+
+Eli's newsletter explores how SEO evolves alongside AI Search while maintaining a product-first mindset. It focuses on strategic growth rather than tactical optimization.
+
+### Key Takeaways
+
+- AI expands SEO instead of replacing it.
+- Product thinking drives sustainable growth.
+- Strategy outperforms SEO checklists.
+
+---
+
+# Overall Newsletter Patterns
+
+- Product-led growth.
+- Strategic SEO.
+- AI Search evolution.
+
+---
+
+# Knowledge Extracted
+
+## Mental Models
+
+- SEO should support product growth.
+- Long-term thinking wins.
+
+## Best Practices
+
+- Learn search behavior continuously.
+- Focus on sustainable strategies.
+
+## Actionable Ideas
+
+- Review search strategy quarterly.
+- Align SEO with product development.

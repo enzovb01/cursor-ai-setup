@@ -127,3 +127,35 @@ Amanda explores how marketers can create demand in a world where platforms incre
 - Brand-first marketing.
 - Zero-click strategy.
 - Audience trust.
+
+---
+
+# Eli Schwartz
+
+## Podcast 1
+
+**Title:** Rethinking SEO in the Age of AI
+
+**Host:** Lenny's Podcast
+
+**Date:** September 2024
+
+**URL:** https://www.lennysnewsletter.com/p/rethinking-seo-in-the-age-of-ai-eli-schwartz
+
+### Summary
+
+Eli explains why AI changes the search funnel without eliminating SEO. He emphasizes product strategy, mid-funnel optimization and long-term organic growth.
+
+### Key Takeaways
+
+- AI changes discovery.
+- SEO remains strategically important.
+- Product experience drives visibility.
+
+---
+
+# Overall Podcast Patterns
+
+- Product-first strategy.
+- AI Search adaptation.
+- Sustainable organic growth.

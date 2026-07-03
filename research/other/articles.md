@@ -149,3 +149,35 @@ Amanda presents a practical framework for understanding audience behavior using 
 - Audience-first marketing.
 - Research-driven strategy.
 - Data-informed content planning.
+
+---
+
+# Eli Schwartz
+
+## Article 1
+
+**Title:** Product-Led SEO
+
+**Source:** EliSchwartz.co
+
+**Date:** Ongoing
+
+**URL:** https://www.elischwartz.co
+
+### Summary
+
+Eli introduces Product-Led SEO as a framework that prioritizes user experience and product value before traditional SEO tactics.
+
+### Key Takeaways
+
+- Product quality improves organic growth.
+- User journeys matter more than keywords.
+- SEO should create business value.
+
+---
+
+# Overall Article Patterns
+
+- Product-first SEO.
+- User-centric optimization.
+- Sustainable growth.
