@@ -1,16 +1,16 @@
-# AI-Powered SEO Content Production Research
+## Research Coverage
 
-## Selected Experts
+All ten experts were researched across their most relevant public platforms. The objective was not to summarize every piece of content, but to extract recurring ideas, mental models and practical workflows related to AI-powered SEO content production.
 
-| Expert | Company | Focus | Latest Content | Platforms | Notes |
-|---------|---------|-------|----------------|-----------|-------|
-| Kevin Indig | Growth Memo | AI Search & SEO Strategy | May 2026 (The Consensus Gap) | LinkedIn · Newsletter · Podcasts · YouTube | Original UX/clickstream/citation research; visibility economy; AI workflow automation. Full synthesis: `research/kevin-indig-synthesis.md` |
-| Ryan Law | Ahrefs | AI Content & Content Marketing | TBD | Blog · LinkedIn · X | Practical AI-assisted content production workflows backed by experiments. |
-| Aleyda Solís | Orainti | Technical SEO | TBD | LinkedIn · YouTube · Blog | Leading authority on technical SEO and AI Search evolution. |
-| Ross Simmonds | Foundation Marketing | Content Distribution | TBD | LinkedIn · YouTube · Newsletter | Expert in scalable content distribution and AI-powered content systems. |
-| Amanda Natividad | SparkToro | B2B Content Marketing | TBD | LinkedIn · Newsletter | Focuses on practical B2B content strategies enhanced by AI. |
-| Eli Schwartz | Product-Led SEO | SEO Strategy | TBD | LinkedIn · Podcasts · Website | Strategic SEO expert focused on sustainable organic growth and AI Search. |
-| Tim Soulo | Ahrefs | SEO & Product Marketing | TBD | YouTube · X · Blog | Shares data-driven SEO strategies and content frameworks. |
-| Bernard Huang | Clearscope | AI SEO | TBD | LinkedIn · X | Focuses on AI optimization, semantic SEO and automation. |
-| Cyrus Shepard | Zyppy SEO | Technical SEO | TBD | LinkedIn · Blog | Practical technical SEO recommendations backed by years of experience. |
-| Tom Critchlow | Independent | Growth Strategy | TBD | Newsletter · LinkedIn | Strategic thinking around growth, content systems and modern marketing. |
+| Expert | Company | Research Focus | Role in the Playbook | Platforms | Status |
+|---------|---------|----------------|-----------------------|-----------|--------|
+| Kevin Indig | Growth Memo | AI Search & SEO Strategy | Explains how AI Search is changing SEO and how brands gain visibility in LLMs. | LinkedIn · Newsletter · Podcasts · YouTube | ✅ Complete |
+| Ryan Law | Ahrefs | AI Content Production | Shows practical AI-assisted content creation workflows while keeping editorial quality. | Blog · LinkedIn · YouTube | ✅ Complete |
+| Ross Simmonds | Foundation Marketing | Content Distribution | Teaches scalable content distribution systems that amplify AI-generated content. | LinkedIn · Newsletter · YouTube | ✅ Complete |
+| Amanda Natividad | SparkToro | B2B Content Marketing | Focuses on demand generation, audience-first content and AI-assisted B2B marketing. | LinkedIn · Newsletter | ✅ Complete |
+| Eli Schwartz | Product-Led SEO | SEO Strategy | Covers product-led SEO, sustainable organic growth and AI Search strategy. | LinkedIn · Podcasts · Website | ✅ Complete |
+| Aleyda Solís | Orainti | Technical SEO | Provides technical SEO best practices adapted to AI Search evolution. | LinkedIn · YouTube · Blog | ✅ Complete |
+| Tim Soulo | Ahrefs | SEO & Product Marketing | Shares data-driven SEO frameworks and product-led content systems. | YouTube · Blog · X | ✅ Complete |
+| Bernard Huang | Clearscope | AI SEO | Researches semantic optimization, AI-assisted SEO and automation workflows. | LinkedIn · X | ✅ Complete |
+| Cyrus Shepard | Zyppy SEO | Technical SEO | Explains practical technical SEO recommendations for search quality and visibility. | LinkedIn · Blog | ✅ Complete |
+| Tom Critchlow | Independent | Growth Strategy | Connects SEO, marketing systems and long-term growth thinking. | Newsletter · LinkedIn | ✅ Complete |
